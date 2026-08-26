@@ -1,6 +1,6 @@
-## Hi, I'm Juan Felipe Serna Villada 👋
+                             ## Hi, I'm Juan Felipe Serna Villada 👋
 
-### Full-Stack Developer | Cybersecurity Enthusiast (DevOpsSec)
+                      ### Full-Stack Developer | Cybersecurity Enthusiast (DevOpsSec)
 
 I am a software development student based in Medellín, Colombia. My professional focus merges the construction of scalable web architectures with an offensive security mindset. I am passionate about solving complex logical problems, optimizing infrastructure resources, and securing network environments.
 
