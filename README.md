@@ -15,15 +15,11 @@ Currently, I enjoy designing robust relational databases just as much as I enjoy
 
 ---
 
-<div align="center">
-
 ### 🚀 What I'm currently working on
 
 - 💻 Developing an interactive e-commerce catalog system using **Node.js**, **Express**, and **PostgreSQL**.
 - 🛡️ Training in offensive security, privilege escalation, and network traffic analysis.
 - 🎓 Preparing for a Software Developer Apprentice role.
-
-</div>
 
 ---
 
