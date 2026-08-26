@@ -12,6 +12,7 @@ Currently, I enjoy designing robust relational databases just as much as I enjoy
 <a href="https://www.linkedin.com/in/juan-serna-673baa34b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
+
 ---
 
 ### 🚀 What I'm currently working on
