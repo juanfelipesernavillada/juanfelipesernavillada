@@ -5,6 +5,7 @@
 I am a software development student based in Medellín, Colombia. My professional focus merges the construction of scalable web architectures with an offensive security mindset. I am passionate about solving complex logical problems, optimizing infrastructure resources, and securing network environments.
 
 Currently, I enjoy designing robust relational databases just as much as I enjoy solving machines and documenting vulnerabilities on Hack The Box.
+
 <a href="mailto:juanfelipesernavillada66@gmail.com?subject=Contact%20from%20GitHub"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/juan-serna-673baa34b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
