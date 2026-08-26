@@ -43,7 +43,7 @@ Currently, I enjoy designing robust relational databases just as much as I enjoy
 ---
 
 ### 📊 GitHub Stats
-![Juan Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfelipesernavillada&show_icons=true&theme=tokyonight&hide_border=true)
+![Juan Felipe's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanfelipesernavillada&theme=tokyonight&hide_border=true)
 
 ---
 
