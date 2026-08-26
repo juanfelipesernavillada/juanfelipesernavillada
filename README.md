@@ -15,13 +15,19 @@ Currently, I enjoy designing robust relational databases just as much as I enjoy
 
 ---
 
+<div align="center">
+
 ### 🚀 What I'm currently working on
 
 - 💻 Developing an interactive e-commerce catalog system using **Node.js**, **Express**, and **PostgreSQL**.
 - 🛡️ Training in offensive security, privilege escalation, and network traffic analysis.
 - 🎓 Preparing for a Software Developer Apprentice role.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🛠️ My Tech Stack
 
@@ -48,10 +54,16 @@ Currently, I enjoy designing robust relational databases just as much as I enjoy
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 ![Juan Felipe's GitHub Stats](https://streak-stats.demolab.com?user=juanfelipesernavillada&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
